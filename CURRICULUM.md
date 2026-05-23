@@ -2044,12 +2044,12 @@ This curriculum was developed based on:
 
 The earlier "✅ 100% Complete" claim was inaccurate. As of 2026-05-22 the curriculum is in active development with the following honest accounting against the "Materials Included" promises:
 
-### Per-module exercise / lab status (post 2026-05-22 lab drop)
+### Per-module exercise / lab status (post 2026-05-22 lab + exercise drops)
 
 | Module | Exercises promised | Present | Labs promised | Labs present |
 |---|---|---|---|---|
-| 101 Foundations | 10 | 6 | 5 | **5 ✅** |
-| 102 Cloud | 8 | 3 | 4 | **4 ✅** |
+| 101 Foundations | 10 | **10 ✅** | 5 | **5 ✅** |
+| 102 Cloud | 8 | **8 ✅** | 4 | **4 ✅** |
 | 103 Containerization | 12 | 6 | 6 | **6 ✅** |
 | 104 Kubernetes | 15 | 3 | 8 | **8 ✅** |
 | 105 Data Pipelines | 12 | 2 | 6 | **6 ✅** |
