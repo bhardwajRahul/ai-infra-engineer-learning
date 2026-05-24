@@ -402,9 +402,8 @@ All learning materials can be completed within **free tier limits**:
 - Best practices and design patterns
 
 ### External Resources
-- 📖 **Reading List**: [resources/reading-list.md](./resources/reading-list.md)
-- 🛠️ **Tools Guide**: [resources/tools.md](./resources/tools.md)
-- 📊 **References**: [resources/references.md](./resources/references.md)
+- 📖 **Reading Lists**: [resources/reading-lists/](./resources/reading-lists/) — advanced + staff-engineer paths
+- 🛠️ **Cheat Sheets**: [resources/cheat-sheets/](./resources/cheat-sheets/) — docker, kubernetes, git, linux, python infrastructure
 - ❓ **FAQ**: [resources/faq.md](./resources/faq.md)
 
 ### Curriculum Documentation
