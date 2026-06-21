@@ -1,5 +1,9 @@
 # AI Infrastructure Engineer - Learning Path
 
+<!-- aicg:site-banner -->
+> 🎓 Part of the **[AI Infrastructure Curriculum](https://ai-infra-curriculum.github.io/)** — a free, open-source ladder of role-based AI-infrastructure programs. [Explore the ladder](https://ai-infra-curriculum.github.io/) · [Join the first live cohort](https://ai-infra-curriculum.github.io/junior.html)
+<!-- /aicg:site-banner -->
+
 <div align="center">
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -565,7 +569,6 @@ This curriculum prepares you for **AI Infrastructure Engineer** roles. For caree
 **Happy Learning!** 🎓🚀
 
 </div>
-
 
 ---
 
